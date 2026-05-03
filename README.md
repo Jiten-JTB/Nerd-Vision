@@ -8,8 +8,8 @@ Nerd Vision is an ESP32-powered smart glasses firmware that turns a pair of glas
 
 Check out Nerd Vision on social media:
 
-- 📸 [**Instagram Reel**](https://www.instagram.com/reel/DWoYZvcTyCL/?igsh=MTR2b2swYmJiejNhcw%3D%3D)
-- 🎬 [**YouTube Short**](https://youtube.com/shorts/if-15_G5w14?si=MH0i1Gnol6Ymscfx)
+[![Static Badge](https://img.shields.io/badge/Instagram-FF0069?style=_-_&logo=instagram&logoColor=white)](https://www.instagram.com/reel/DWoYZvcTyCL/?igsh=MTR2b2swYmJiejNhcw%3D%3D)
+[![Static Badge](https://img.shields.io/badge/YouTube-FF0000?style=_-_&logo=youtube&logoColor=white)](https://youtube.com/shorts/if-15_G5w14?si=MH0i1Gnol6Ymscfx)
 
 ---
 
